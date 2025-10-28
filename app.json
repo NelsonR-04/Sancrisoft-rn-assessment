@@ -43,6 +43,8 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
-  }
+    },
+    "sdkVersion": "54.0.0"
+  },
+  "name": "sancrisoft-rn-assessment"
 }
